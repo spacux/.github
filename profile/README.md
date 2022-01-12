@@ -1,0 +1,3 @@
+# Omninf
+
+Welcome to Omninf!

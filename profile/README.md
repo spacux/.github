@@ -1,11 +1,11 @@
-<div align="center">
-  <h1><a href="https://omninf.com/" title="Omninf"><img src="https://raw.githubusercontent.com/Omninf/.github/main/profile/Omninf-cover.jpg" alt="Omninf"/></a></h1>
-</div>
+# Welcome to Cosnux 🌌
 
-***
+**Cosnux** is where innovation meets interconnection.
+We create cutting-edge solutions to help businesses and individuals thrive in a digital-first world.
+Our platform bridges the gap between creativity and collaboration, offering dynamic tools to manage workflows, enhance productivity, and scale with ease.
 
-# Omninf
+Feel like joining us? Visit https://cosnux.com! 🚀
 
-Omninf is an online platform that allows managing organizations of all types and sizes in the simplest and easiest way possible.
+[💬 Discuss with us on GitHub](https://github.com/orgs/cosnux/discussions)
 
-***
+<p><a href="https://x.com/intent/follow?screen_name=CosnuxHQ"><img src="https://img.shields.io/twitter/follow/CosnuxHQ.svg?label=Follow%20@CosnuxHQ" alt="Follow @CosnuxHQ"/></a></p>

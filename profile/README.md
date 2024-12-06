@@ -8,4 +8,4 @@ Feel like joining us? Visit https://cosnux.com! 🚀
 
 [💬 Discuss with us on GitHub](https://github.com/orgs/cosnux/discussions)
 
-<p><a href="https://x.com/intent/follow?screen_name=CosnuxHQ"><img src="https://img.shields.io/twitter/follow/CosnuxHQ.svg?label=Follow%20@CosnuxHQ" alt="Follow @CosnuxHQ"/></a></p>
+<p><a href="https://x.com/intent/follow?screen_name=CosnuxApp"><img src="https://img.shields.io/twitter/follow/CosnuxApp.svg?label=Follow%20@CosnuxApp" alt="Follow @CosnuxApp"/></a></p>
